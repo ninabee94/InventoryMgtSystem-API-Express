@@ -135,6 +135,6 @@
      cd C:/Projects Express/inventory_sytem
      node server.js
      
-<b>6. Test API in browser
+<b>6. Test API in browser</b>
   
      http://localhost:8080/api/test
