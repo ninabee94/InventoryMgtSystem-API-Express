@@ -2,7 +2,7 @@
 
 ![alt](https://user-images.githubusercontent.com/57636419/69487125-bf405d00-0e8f-11ea-89dc-0b54e2e944c4.JPG)
 
-<b>1. Installed Node.js & npm</b>
+<b>1. Node.js & npm installed</b>
   
 <b>2. Create & go to project directory: C:/Projects Express/inventory_sytem</b>
 
