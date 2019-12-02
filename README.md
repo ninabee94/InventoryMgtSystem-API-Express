@@ -140,6 +140,7 @@
 <b>5. Open cmd</b>
   
      cd C:/Projects Express/inventory_sytem
+     npm install
      node server.js
      
 <b>6. Test API in browser</b>
