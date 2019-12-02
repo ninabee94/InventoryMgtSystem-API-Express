@@ -1,5 +1,12 @@
 # InventoryMgtSystem-API-Express
 
+     frontend (Ionic): https://github.com/ninabee94/InventoryMgtSystem-Ionic4
+     backend (Express.js): https://github.com/ninabee94/InventoryMgtSystem-API-Express
+     database (mongoDB): https://github.com/ninabee94/InventoryMgtSystem-mongoDB
+     
+=======================================
+
+
 ![alt](https://user-images.githubusercontent.com/57636419/69487125-bf405d00-0e8f-11ea-89dc-0b54e2e944c4.JPG)
 
 <b>1. Node.js & npm installed</b>
